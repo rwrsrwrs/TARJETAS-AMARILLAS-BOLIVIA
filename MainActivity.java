@@ -39,7 +39,7 @@ webView.getSettings().setDomStorageEnabled(true);
 
  
        
-webView.loadUrl("https://tarjetasamarillasoruro.blogspot.com/");
+webView.loadUrl("https://tarjetasamarillasbolivia.blogspot.com/");
 
     
     
